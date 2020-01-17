@@ -21,4 +21,6 @@
     <string name="color_component_title_new">Choose accent color</string>
     <string name="no_options_message_primary">No overlay available for current mode</string>
     <string name="no_options_message_default">No overlays available</string>
+    <string name="show_statusarea">Show status area (weather etc.)</string>
+    <string name="applied_changes_msg">Clock settings applied (SysUI restart may be required)</string>
 </resources>
